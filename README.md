@@ -15,8 +15,7 @@ MVP的重点在于Presenter,它将Model和View分开了，由Presenter将Model�
 
 ###应用截图###
 
-#####splash界面#####
-
+#####splash界面#####                                               
 ![Image text](https://github.com/WadeDewnye/Know-master/blob/master/Screenshot_splash.png)
 
 #####Home界面#####
