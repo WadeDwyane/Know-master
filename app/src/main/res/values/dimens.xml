@@ -1,0 +1,21 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="dip_200">200dip</dimen>
+    <dimen name="dip_400">400dip</dimen>
+    <dimen name="dip_450">450dip</dimen>
+    <dimen name="dip_20">20dip</dimen>
+    <dimen name="dip_30">30dip</dimen>
+    <dimen name="dip_48">48dip</dimen>
+    <dimen name="sp_18">18sp</dimen>
+    <dimen name="dip_150">150dip</dimen>
+    <dimen name="detail_backdrop_height">256dp</dimen>
+    <dimen name="card_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="list_item_avatar_size">40dp</dimen>
+    <dimen name="dip_210">210dip</dimen>
+    <dimen name="dip_204">204dip</dimen>
+    <dimen name="dip_220">220dip</dimen>
+    <dimen name="dip_12">12dip</dimen>
+</resources>

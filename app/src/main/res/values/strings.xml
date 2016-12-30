@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Know</string>
+    <string name="loading">加载中</string>
+    <string name="no_net">对不起,无网络连接</string>
+    <string name="net_error">对不起,网络发生错误</string>
+    <string name="app_info">© Fido Dido</string>
+    <string name="can_not_find_version_name">1.0</string>
+    <string name="cheese_ipsum">Jarlsberg lancashire edam. Dolcelatte hard cheese brie st. agur blue
+        cheese caerphilly bavarian bergkase cheese and biscuits mascarpone. Cheeseburger swiss bavarian
+        bergkase cream cheese fromage frais cheesy feet port-salut airedale. St. agur blue cheese rubber
+        cheese caerphilly cheddar cheesecake cream cheese manchego lancashire. Roquefort squirty cheese
+        the big cheese.</string>
+    <string name="share_weChat">分享给微信好友</string>
+    <string name="share_qq">分享给QQ好友</string>
+    <string name="share_friend_zone">分享到朋友圈</string>
+</resources>
