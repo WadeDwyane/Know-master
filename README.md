@@ -11,12 +11,11 @@ Retrofit就是**对Okhttp做了一层封装**。把网络请求都交给给了Ok
 OkHttp是一个很强大的网络请求数据库,可以支持一般的get、post请求，支持基于http的文件上传、文件下载、图片加载，支持请求回调，直接返回对象或者对象集合，支持session。
 
 ###MVP##
-MVP的重点在于Presenter,它将Model和View分开了，由Presenter将Model层的数据拿来处理后，交给View让它自行去显示。其最核心的任务就是：将Model业务逻辑处理和View页面处理分开！
+MVP的重点在于Presenter,它将Model和View分开了，由Presenter将Model层的数据拿来处理后，交给View让它自行去显示。其最核心的任务就是：**将Model业务逻辑处理和View页面处理分开**！
 
 ###应用截图###
 
 #####splash界面#####
-
 ![Image text](https://github.com/WadeDewnye/Know-master/blob/master/Screenshot_splash.png)
 
 #####Home界面#####
