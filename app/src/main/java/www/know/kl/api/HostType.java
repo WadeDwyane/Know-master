@@ -28,19 +28,5 @@ public class HostType {
      */
     public static final int ZHRB_NEWS = 1;
 
-    /**
-     * 网易新闻视频的Host
-     */
-//    public static final int NETEASE_NEWS_VIDEO = 2;
-
-    /**
-     * 极客图片的Host
-     */
-//    public static final int GANK_GIRL_PHOTO = 3;
-
-    /**
-     * 新闻详情的detail
-     */
-//    public static final int NEWS_DETAIL_HTML_PHOTO = 4;
 
 }
